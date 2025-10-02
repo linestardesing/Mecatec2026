@@ -1825,6 +1825,99 @@ a {
   position: absolute;
   top: 0;
 }
+.cid-uYr5uqX6yv {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/pngtreeauto-mechanic-working-in-garage-15452865.png");
+}
+.cid-uYr5uqX6yv .plan-body .btn-bgr {
+  z-index: 0;
+}
+.cid-uYr5uqX6yv .media-container-row {
+  -webkit-align-items: flex-start;
+  align-items: flex-start;
+}
+.cid-uYr5uqX6yv .list-group-item {
+  padding: .75rem 0rem;
+}
+.cid-uYr5uqX6yv .plan-subtitle {
+  color: #cccccc;
+}
+.cid-uYr5uqX6yv .mbr-text {
+  margin: 10px 0 0 0;
+  color: #cccccc;
+}
+.cid-uYr5uqX6yv .price-term .term {
+  display: inline-block;
+  background: #ffffff;
+  padding: 5px 10px;
+  border-radius: 100px;
+}
+.cid-uYr5uqX6yv .plan {
+  padding: 1.875rem;
+  background: none;
+  position: relative;
+}
+.cid-uYr5uqX6yv .plan .mbr-overlay {
+  background: #f41010;
+  opacity: 0.9;
+}
+.cid-uYr5uqX6yv .plan .plan-price {
+  margin-top: 15px;
+  padding: 20px 0;
+  border-top: 1px solid #eaeaea;
+}
+.cid-uYr5uqX6yv .plan .plan-price .price-term {
+  margin-top: 10px;
+}
+.cid-uYr5uqX6yv .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  border: 0;
+  background: none;
+}
+.cid-uYr5uqX6yv .plan .list-group-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 0%;
+  width: 100%;
+  height: 1px;
+  content: "";
+  background-color: #eaeaea;
+}
+.cid-uYr5uqX6yv .plan .mbr-section-btn a {
+  margin-bottom: 0;
+}
+.cid-uYr5uqX6yv .plan .plan-body {
+  position: relative;
+  border-top: 1px solid #eaeaea;
+}
+@media (max-width: 992px) {
+  .cid-uYr5uqX6yv .plan {
+    margin-bottom: 30px;
+  }
+}
+.cid-uYr5uqX6yv .plan-header {
+  position: relative;
+}
+@media (max-width: 550px) {
+  .cid-uYr5uqX6yv .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-uYr5uqX6yv .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uYr5uqX6yv .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
 .cid-uYf8Z1WT7M {
   padding-top: 5rem;
   padding-bottom: 5rem;
